@@ -1,0 +1,12 @@
+atomicwrites==1.2.1
+attrs==18.2.0
+html-testRunner==1.1.2
+Jinja2==2.9.5
+MarkupSafe==1.0
+more-itertools==4.3.0
+pluggy==0.8.0
+py==1.7.0
+pytest==3.9.2
+selenium==3.14.1
+six==1.11.0
+urllib3==1.24
