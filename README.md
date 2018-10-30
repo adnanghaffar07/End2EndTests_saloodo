@@ -13,4 +13,5 @@ virtualenv tests_env
 source tests_env/bin/activate
 pip install -r requirements.txt
 ```
-
+- Go to runner.py
+- Right click and Run
